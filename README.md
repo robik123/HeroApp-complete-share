@@ -1,1 +1,1 @@
-#Hero app demonstrates networking and the share option
+# Hero app demonstrates networking and the share option
